@@ -1,3 +1,7 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blessing-studentlens.streamlit.app/)
+
+**[Open the hosted app](https://blessing-studentlens.streamlit.app/)**
+
 # StudentLens — Study Habits & Student Outcomes
 By Blessing Sekeramavi
 
